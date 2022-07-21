@@ -8,7 +8,7 @@
 
 ▪💻Intrested in Web Development
 
-▪✍Learning & practising DSA in C++
+▪✍Learning & practising DSA in JAVA
  
 ▪📫Pop me an Email->SK9313589721@gmail.com    
  
